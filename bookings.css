@@ -1,0 +1,102 @@
+body {
+	background-image: url(images/bookings.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+header {
+	margin: 1%;
+}
+
+p span.logo {
+	margin: 2%;
+}
+
+p span.carrot-events {
+	padding-top: 10%;
+	padding-bottom: 20%;
+	margin: 1%;
+	margin-left: 7%;
+	font-size: 3em;
+	font-weight: bold;
+	color: #ffc800;
+	font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.slogan {
+	color: white;
+	font-weight: bold;
+	margin-bottom: 3%;
+	margin-left: 8%;
+	font-family: "Verdana", sans-serif;
+}
+
+.unforgettable {
+	border: 2px solid;
+	color: ;
+	background-color: black;
+	border-radius: 9px;
+}
+
+pre {
+	margin-top: -8%;
+	margin-right: 90%;
+	margin-left: -1%;
+}
+
+a pre img {
+	width: 100px;
+}
+
+
+section#forms-field {
+	border-radius: 10px;
+	border: 2px dashed;
+	width: 35%;
+	height: 430px;
+	margin-left: 1%;
+	margin-top: 1%;
+	background-image: url(images/boookings-cover.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	/*background-color: #666666;*/
+}
+
+section#forms {
+	text-align: center;
+}
+
+#booking-form {
+	color: white;
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 2em;
+}
+
+label {
+	font-weight: bold;
+}
+
+input, select {
+	line-height: 2em;
+	margin-top: 3%;
+}
+
+nav {
+	margin-left: 10%;
+	margin-top: 7%;
+}
+
+nav a {
+	text-decoration: none;
+	margin-right: 8px;
+	margin-left: 8px;
+	color: black;
+}
+
+p#copyright {
+	color: white;
+	margin-top: 3%;
+	font-weight: bold;
+	padding-left: 600px;
+}

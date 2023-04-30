@@ -1,0 +1,194 @@
+body {
+	background-image: url(images/home.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+header {
+	margin: 1%;
+}
+
+p span.logo {
+	margin: 2%;
+}
+
+p span.carrot-events {
+	padding-top: 10%;
+	padding-bottom: 20%;
+	margin: 1%;
+	margin-left: 7%;
+	font-size: 3em;
+	font-weight: bold;
+	color: #ffc800;
+	font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.slogan {
+	font-weight: bold;
+	margin-bottom: 3%;
+	margin-left: 8%;
+	font-family: "Verdana", sans-serif;
+}
+
+/*.welcome-message {
+	background-image: url(welcome.JPG);
+	background-position:top-left ;
+	background-attachment: fixed;
+	text-align: center;
+	line-height: 60px;
+	border-radius: 10px;
+	width: 350px;
+	margin: 3%;
+	margin-right: 600px;
+	height: 389px;
+}
+img {
+	width: 350px;
+}
+
+p.welcome-heading {
+	font-size: 1.5em;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+span.welcome-text {
+	font-size: 20px;
+	font-weight: bold;
+}*/
+
+.unforgettable {
+	border: 2px solid black;
+	color: white;
+	background-color: black;
+	border-radius: 9px;
+}
+
+/*table, tr, td {
+	border: 1px solid black;
+	margin: 20%;
+	margin-top: 12%;
+	margin-left: 40%;
+}
+
+table, tr, td #about {
+	margin: 5%;
+}*/
+
+/*.grid {
+	margin: 40%;
+	margin-top: 27%;
+}*/
+
+img {
+	margin-top: -90%;
+}
+
+pre#logo {
+	margin-top: -41%;
+	width: 10px;
+}
+
+.grid {
+	cursor: pointer;
+	margin: 20%;
+	margin-left: 35%;
+	margin-top: 6%;
+	margin-bottom: 12%;
+	font-weight: bold;
+}
+
+.grid-1 {
+	
+	text-decoration: none;
+	border: 1px solid black;
+	padding: 60px 91px;
+	margin-right: 20px;
+	background-color: rgba(230, 204, 179, 0.3);
+	font-size: 30px;
+}
+
+.grid-2 {
+	border: 1px solid black;
+	padding: 60px 63px;
+	background-color: rgba(230, 204, 179, 0.3);
+	font-size: 30px;
+}
+
+.down-grid{
+	margin-top: 140px;
+}
+
+.grid-3 {
+	border: 1px solid black;
+	padding: 60px 67.5px;
+	margin-right: 20px;
+	background-color: rgba(230, 204, 179, 0.3);
+	font-size: 30px;
+
+}
+
+.grid-4 {
+	border: 1px solid black;
+	padding: 60px 75px;
+	background-color: rgba(230, 204, 179, 0.3);
+	font-size: 30px;
+}
+
+.grid-1:hover {
+	color: white;
+	background-image: url(hover/home.JPG);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.grid-2:hover {
+	color: white;
+	background-image: url(hover/about.JPG);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.grid-3:hover {
+	color: black;
+	background-image: url(hover/schedule.JPG);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.grid-4:hover {
+	color: white;
+	background-image: url(hover/bookings.JPG);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+p#copyright {
+	color: white;
+	margin-top: 2%;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 600px;
+}
+
+.about {
+	color: black;
+}
+
+.contact-us {
+	color: black;
+}
+
+.schedules {
+	color: black;
+}
+
+.bookings {
+	color: black;
+}
+
+a {
+	text-decoration: none;
+}
+

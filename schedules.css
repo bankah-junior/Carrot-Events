@@ -1,0 +1,132 @@
+body {
+	background-image: url(images/schedules.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+header {
+	margin: 1%;
+}
+
+p span.logo {
+	margin: 2%;
+}
+
+p span.carrot-events {
+	padding-top: 10%;
+	padding-bottom: 20%;
+	margin: 1%;
+	margin-left: 7%;
+	font-size: 3em;
+	font-weight: bold;
+	color: #ffc800;
+	font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.slogan {
+	color: white;
+	font-weight: bold;
+	margin-bottom: 3%;
+	margin-left: 8%;
+	font-family: "Verdana", sans-serif;
+}
+
+.unforgettable {
+	border: 2px solid;
+	color: ;
+	background-color: black;
+	border-radius: 9px;
+}
+
+pre {
+	margin-top: -8%;
+	margin-right: 90%;
+	margin-left: -1%;
+}
+
+a pre img {
+	width: 100px;
+}
+
+section#LOGO-PIC {
+	border-radius: 10px;
+	width: 80%;
+	height: 430px;
+	margin-left: 9%;
+	margin-top: 7%;
+	background-color: #a3a375;
+}
+
+nav#links {
+	margin-left: 52%;
+	margin-top: 2%;
+}
+
+nav a.links {
+	text-decoration: none;
+	margin-right: 8px;
+	margin-left: 8px;
+	color: black;
+}
+
+section img{
+	margin-left: 25%;
+	margin-top: 10%;
+	opacity: 0.4;
+}
+
+section#table {
+	line-height: 30px;
+	margin-left: 500px;
+	margin-right: 20px;
+	margin-top: -200px;
+	padding: 9px;
+	background-color: rgba(153, 153, 102, 0.5);
+	font-size: 15px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+table {
+	width: 450px;
+	height: 200px;
+	text-align: center;
+}
+
+table,thead,th,tr,td {
+	border: 1px solid;
+}
+
+section#schedules {
+	margin-left: 400px;
+	margin-right: 20px;
+	margin-top: -80px;
+	padding: 9px;
+	padding-left: 160px;
+	font-size: 70px;
+}
+
+section#schedules-info {
+	font-size: 20px;
+	margin-left: 20px;
+	margin-right: 800px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+a.media {
+	text-decoration: none;
+	display: block;
+	color: white;
+}
+
+a.media:hover {
+	color: #ffc800;
+}
+
+
+p#copyright {
+	color: white;
+	margin-top: 4%;
+	font-weight: bold;
+	padding-left: 600px;
+}
